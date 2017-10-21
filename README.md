@@ -1,5 +1,5 @@
-# Coin Toss Simulator
+# Scrabble Word Finder
 
-Program to run the simulation of multiple coin tosses and calculate/plot the probability.
+Cheat program to help you beat your friends in a quick game of Scrabble ;)
 
 Course - CSCI 455x:Programming System Design - Spring 2017
